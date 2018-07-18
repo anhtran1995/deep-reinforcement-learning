@@ -82,7 +82,7 @@ To set up your python environment to run the code in this repository, follow the
 	```
 	
 2. Follow the instructions in [this repository](https://github.com/openai/gym) to perform a minimal install of OpenAI gym.  
-	- Next, install the **classic control** environment group by following the instructions [here](https://github.com/openai/gym#classic-control).
+	- Next, install the **classic control** environment group by following the instructions [here](https://github.com/openai/gym#classic-control). Need https://stackoverflow.com/questions/44504899/installing-pocketsphinx-python-module-command-swig-exe-failed on Windows
 	- Then, install the **box2d** environment group by following the instructions [here](https://github.com/openai/gym#box2d).
 	
 3. Clone the repository (if you haven't already!), and navigate to the `python/` folder.  Then, install several dependencies.
